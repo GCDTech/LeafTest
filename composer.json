@@ -1,0 +1,29 @@
+{
+  "name": "gcdtech/leaf-test",
+  "description": "description_text",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "author's name",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Gcd\\LeafTest\\": "src/"
+    }
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "git@github.com:rhubarbphp/module.leaf.commoncontrols"
+    }
+  ],
+  "require": {
+    "rhubarbphp/module-leaf": "dev-ac/MajorRefactor as 1.0.0",
+    "rhubarbphp/rhubarb": "dev-feature/Events as 1.0.0",
+    "rhubarbphp/custard": "dev-master",
+    "rhubarbphp/module-leaf-common-controls": "dev-master"
+  }
+}
