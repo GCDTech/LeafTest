@@ -5,7 +5,6 @@
         "This file is @generated automatically"
     ],
     "hash": "06bce8a9eacaffd2ff037937071a3dd4",
-    "content-hash": "a543f784bd6ba92ee81546601ad5bc43",
     "packages": [
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -108,12 +107,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RhubarbPHP/Module.Leaf.git",
-                "reference": "3d25b397a80fbbbf49f9b6cedb10539c9bdfc552"
+                "reference": "5e4e78bc94c65d5065b00b45467c2f00f5d585da"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RhubarbPHP/Module.Leaf/zipball/3d25b397a80fbbbf49f9b6cedb10539c9bdfc552",
-                "reference": "3d25b397a80fbbbf49f9b6cedb10539c9bdfc552",
+                "url": "https://api.github.com/repos/RhubarbPHP/Module.Leaf/zipball/5e4e78bc94c65d5065b00b45467c2f00f5d585da",
+                "reference": "5e4e78bc94c65d5065b00b45467c2f00f5d585da",
                 "shasum": ""
             },
             "require": {
@@ -144,7 +143,7 @@
                 "presenter",
                 "rhubarb"
             ],
-            "time": "2016-04-27 22:47:48"
+            "time": "2016-04-28 16:10:14"
         },
         {
             "name": "rhubarbphp/module-leaf-common-controls",

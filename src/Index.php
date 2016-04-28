@@ -25,6 +25,6 @@ class Index extends Leaf
      */
     protected function createModel()
     {
-        return new LeafModel();
+        return new IndexModel();
     }
 }
