@@ -25,5 +25,8 @@
     "rhubarbphp/rhubarb": "dev-feature/Events as 1.0.0",
     "rhubarbphp/custard": "dev-master",
     "rhubarbphp/module-leaf-common-controls": "dev-master"
+  },
+  "require-dev": {
+    "codeception/codeception": "2.1.8"
   }
 }
