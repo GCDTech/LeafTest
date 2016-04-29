@@ -5,6 +5,7 @@
         "This file is @generated automatically"
     ],
     "hash": "06bce8a9eacaffd2ff037937071a3dd4",
+    "content-hash": "a543f784bd6ba92ee81546601ad5bc43",
     "packages": [
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -107,12 +108,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RhubarbPHP/Module.Leaf.git",
-                "reference": "5e4e78bc94c65d5065b00b45467c2f00f5d585da"
+                "reference": "2404011a070fbd5e114105ccc1dc57b414e52fc1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RhubarbPHP/Module.Leaf/zipball/5e4e78bc94c65d5065b00b45467c2f00f5d585da",
-                "reference": "5e4e78bc94c65d5065b00b45467c2f00f5d585da",
+                "url": "https://api.github.com/repos/RhubarbPHP/Module.Leaf/zipball/2404011a070fbd5e114105ccc1dc57b414e52fc1",
+                "reference": "2404011a070fbd5e114105ccc1dc57b414e52fc1",
                 "shasum": ""
             },
             "require": {
@@ -143,7 +144,7 @@
                 "presenter",
                 "rhubarb"
             ],
-            "time": "2016-04-28 16:10:14"
+            "time": "2016-04-28 22:13:00"
         },
         {
             "name": "rhubarbphp/module-leaf-common-controls",
@@ -151,7 +152,7 @@
             "source": {
                 "type": "git",
                 "url": "git@github.com:rhubarbphp/module.leaf.commoncontrols",
-                "reference": "d210b4cdc9a3b267bf30136a2575ae336847d5e0"
+                "reference": "0bde65ce8b23cf51502d473d8d1a23ed0a2ddabd"
             },
             "require": {
                 "rhubarbphp/module-leaf": "dev-ac/MajorRefactor"
@@ -162,8 +163,8 @@
             "type": "library",
             "autoload": {
                 "psr-4": {
-                    "Rhubarb\\Leaf\\Controls\\": "src/",
-                    "Rhubarb\\Leaf\\Controls\\Tests\\": "tests/unit/"
+                    "Rhubarb\\Leaf\\Controls\\Common\\": "src/",
+                    "Rhubarb\\Leaf\\Controls\\Common\\Tests\\": "tests/unit/"
                 }
             },
             "license": [
@@ -179,7 +180,7 @@
                 "presenter",
                 "rhubarb"
             ],
-            "time": "2016-04-27 22:37:39"
+            "time": "2016-04-28 22:12:20"
         },
         {
             "name": "rhubarbphp/rhubarb",
