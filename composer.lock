@@ -4,8 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "06bce8a9eacaffd2ff037937071a3dd4",
-    "content-hash": "a543f784bd6ba92ee81546601ad5bc43",
+    "hash": "9107bf74bd6c37507d38b85defd69c0d",
     "packages": [
         {
             "name": "phpdocumentor/reflection-docblock",
@@ -108,12 +107,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/RhubarbPHP/Module.Leaf.git",
-                "reference": "2404011a070fbd5e114105ccc1dc57b414e52fc1"
+                "reference": "66793c0e7a693f86092ac9166deedb5c41e67a7f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/RhubarbPHP/Module.Leaf/zipball/2404011a070fbd5e114105ccc1dc57b414e52fc1",
-                "reference": "2404011a070fbd5e114105ccc1dc57b414e52fc1",
+                "url": "https://api.github.com/repos/RhubarbPHP/Module.Leaf/zipball/66793c0e7a693f86092ac9166deedb5c41e67a7f",
+                "reference": "66793c0e7a693f86092ac9166deedb5c41e67a7f",
                 "shasum": ""
             },
             "require": {
@@ -144,14 +143,14 @@
                 "presenter",
                 "rhubarb"
             ],
-            "time": "2016-04-28 22:13:00"
+            "time": "2016-04-29 15:59:04"
         },
         {
             "name": "rhubarbphp/module-leaf-common-controls",
             "version": "dev-master",
             "source": {
                 "type": "git",
-                "url": "git@github.com:rhubarbphp/module.leaf.commoncontrols",
+                "url": "https://github.com/rhubarbphp/module.leaf.commoncontrols",
                 "reference": "0bde65ce8b23cf51502d473d8d1a23ed0a2ddabd"
             },
             "require": {
